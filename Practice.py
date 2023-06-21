@@ -1,1 +1,2 @@
-print("abz 1")ls
+print("abz 1")
+print("zabhi 1")
